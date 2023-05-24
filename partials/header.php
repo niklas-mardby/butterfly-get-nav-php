@@ -10,5 +10,5 @@
 </head>
 
 <body>
-    <nav><a href="index.php">Butterflies</a></nav>
+    <nav><a href="index.php">&#129419; Butterflies &#129419;</a></nav>
     <main>
